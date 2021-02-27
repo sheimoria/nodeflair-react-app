@@ -1,6 +1,8 @@
 # React App
 
 This project was developed for NodeFlair's internship application and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 View the web app here: [nodeflair-react-app.vercel.app](https://nodeflair-react-app.vercel.app/)
 
 ## Setup
