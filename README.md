@@ -3,7 +3,7 @@
 This project was developed for NodeFlair's internship application and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Link to web app: [nodeflair-react-app.vercel.app](https://nodeflair-react-app.vercel.app/)
 
-## Installation and Setup
+## Setup
 
 1. Install [Node.js](https://nodejs.org/en/)
 2. Download the project repository
