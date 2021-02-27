@@ -2,6 +2,9 @@
 
 View the web app here: [nodeflair-react-app.vercel.app](https://nodeflair-react-app.vercel.app/)
 
+
+Or run it locally as per the instructions below:
+
 ## Setup
 
 1. Install [Node.js](https://nodejs.org/en/)
