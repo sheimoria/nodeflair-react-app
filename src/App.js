@@ -27,8 +27,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <Header onClick={changeCategory} />
-      <h3 className="text-center p-2">Pictures of {category.id}</h3>
+      <Header onClick={changeCategory} category={category} />
       <Body images={category.images} />
     </div>
   );
