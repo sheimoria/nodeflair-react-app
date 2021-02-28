@@ -1,11 +1,12 @@
 {
-    "editor.fontFamily": "Menlo",
-    "editor.fontSize": 16,
-    "terminal.integrated.fontFamily": "Menlo",
-    "terminal.integrated.fontSize": 16,
+    "editor.fontFamily": "SF Mono",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontFamily": "SF Mono",
+    "terminal.integrated.fontSize": 14,
     "workbench.preferredLightColorTheme": "Monokai Dimmed",
-    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
     "workbench.preferredDarkColorTheme": "Monokai Dimmed",
     "editor.formatOnSave": true,
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true
 }
